@@ -1,0 +1,21 @@
+header {
+    background-color: black;
+    font-size: 48px;
+}
+footer {
+    background-color: black;
+    font-size: 48px;
+}
+p {
+    color: white;
+}
+body {
+    color: rgb(162, 151, 138);
+}
+h1 {
+    color: brown;
+    font-size: 100px;
+}
+a {
+    font-size: xx-large;
+}
